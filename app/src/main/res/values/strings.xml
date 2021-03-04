@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">try-table-layout</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="logintitle">Sign In</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="remember">Remember Me</string>
+    <string name="no_account">Don\'t have an account?</string>
+</resources>
